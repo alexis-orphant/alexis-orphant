@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning React js ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 Contact: -mail: alecne99@gmail.com / linkedin: https://www.linkedin.com/in/alexis-orphant-247877234/
+- 💻 Portfolio: https://alexis-orphant.github.io/Portfolio/
+
 
 <!---
 alexis-orphant/alexis-orphant is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
