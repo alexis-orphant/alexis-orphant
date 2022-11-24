@@ -2,7 +2,8 @@
 - 👀 I’m Front End dev and in training to be full stak
 - 🌱 I’m currently learning React js ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 Contact: -mail: alecne99@gmail.com / linkedin: https://www.linkedin.com/in/alexis-orphant-247877234/
+- 📫 Contact: 
+        linkedin: https://www.linkedin.com/in/alexis-orphant-247877234/
 - 💻 Portfolio: https://alexis-orphant.github.io/Portfolio/
 
 
